@@ -11,7 +11,7 @@ import {
   Image,
 } from "react-native";
 import MapView, { Marker } from "react-native-maps";
-import { SvgUri, inlineStyles } from "react-native-svg";
+import { SvgUri } from "react-native-svg";
 
 const Points = () => {
   const navigation = useNavigation();
