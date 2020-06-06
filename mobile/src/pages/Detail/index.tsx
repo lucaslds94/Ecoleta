@@ -22,6 +22,8 @@ const Detail = () => {
     navigation.navigate("Detail");
   }
 
+ 
+
   return (
     <SafeAreaView style={{ flex: 1 }}>
       <View style={styles.container}>
